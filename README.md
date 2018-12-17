@@ -1,4 +1,4 @@
-Linux sniffer
+# Linux sniffer
 =============================
 
 This is traffic monitor tool, that i created for my bachelor project. 
@@ -32,4 +32,4 @@ On command line, type in the following command:
 
 
 
-# LinuxSniffer
+
